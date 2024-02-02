@@ -8,14 +8,14 @@
 .cuadrado {
   width: 100px;
   height: 100px;
-  background: rgb(6, 0, 128);
+  background: green;
   border: black 2px solid;
 }
 
 .rombo {
   width: 100px;
   height: 100px;
-  background: rgb(108, 123, 98);
+  background: pink;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
